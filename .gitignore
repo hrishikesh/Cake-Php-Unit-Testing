@@ -1,0 +1,16 @@
+/app/Config/database.php
+/app/Config/core.php
+/app/tmp
+/.idea
+/app/webroot/img/logo
+/app/webroot/img/profileImage
+.DS_Store 
+/app/webroot/files/*
+/app/Config/appConfigs.php
+lib/Cake/Console/Templates/skel/tmp/
+/app/webroot/img/ckfiles
+Gemfile.lock
+/db/config.yml
+/db/schema.rb
+.bundle
+Vagrantfile
